@@ -14,6 +14,7 @@ YOLOv3, YOLOv3-tiny, YOLOv4, YOLOv4-tiny
 
 ---
 
+
 ## News !
 
 - Small batch size is used, because available GPU (8G) has small memory.  Please use big batch size as possible.
